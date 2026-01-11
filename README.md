@@ -1,24 +1,26 @@
-# Natty or Not: Comunicação Profissional Humana vs IA
+# Natty or Not: Comunicação Humana vs IA
 
 ## 📒 Descrição
-Este projeto explora o uso de IAs generativas na criação de textos profissionais do dia a dia, comparando versões escritas por um humano e por uma IA.  
-O objetivo é analisar até que ponto a IA consegue parecer natural, humana e autêntica.
+Este projeto explora até que ponto IAs generativas conseguem produzir textos realmente naturais em situações reais do mercado de trabalho, comparando versões humanas e versões geradas por IA.
+
+## 🎯 Objetivo
+Analisar diferenças sutis de tom, espontaneidade e responsabilidade entre textos humanos e textos gerados por IA, mesmo quando a IA recebe instruções para parecer natural.
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT (geração de texto)
+- ChatGPT
 - Git e GitHub
 - Markdown
 
-## 🧐 Processo de Criação
-1. Criei textos manualmente para situações reais do mercado de trabalho.
-2. Gerei versões equivalentes utilizando IA.
-3. Comparei os resultados considerando clareza, empatia e naturalidade.
-4. Refleti sobre os limites e vantagens do uso de IA na comunicação profissional.
+## 🧐 Metodologia
+1. Os textos humanos foram escritos sem auxílio de IA.
+2. A IA recebeu prompts para escrever de forma natural e profissional.
+3. Os textos foram comparados considerando empatia, clareza e autenticidade.
 
-## 🚀 Resultados
-Em alguns cenários, a IA apresentou textos bem estruturados e claros.  
-Em outros, ficou evidente a falta de contexto emocional e autenticidade humana, mostrando que a IA funciona melhor como apoio, não substituição.
+## 📂 Exemplos Analisados
+- [Mensagem para recrutador](examples/recrutador.md)
+- [Feedback de code review](examples/code-review.md)
+- [Assumindo erro em produção](examples/erro-em-producao.md)
 
-## 💭 Reflexão
-Criar algo "natty" com IA é um desafio.  
-Este projeto reforça que o diferencial não está apenas em usar IA, mas em **saber quando, como e por que usá-la**.
+## 💭 Reflexão Final
+Mesmo com bons prompts, a IA ainda apresenta padrões previsíveis e evita certos riscos humanos, como assumir erros de forma direta.  
+O melhor uso da IA é como apoio, não substituição, da comunicação humana.
